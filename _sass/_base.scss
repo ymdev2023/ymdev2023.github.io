@@ -155,9 +155,9 @@ aside {
 header {
     position: relative;
     width: 100%;
-    min-height: 100%; /* 이 부분을 수정하여 높이를 조절하세요 */
+    min-height: 120%; /* 이 부분을 수정하여 높이를 조절하세요 */
     @include background-cover;
-    background-position: center;
+    background-position: center center;
     background-size: cover; /* 이미지가 헤더에 맞게 표시되도록 설정 */
     background-image: url('../img/header.jpg');
     text-align: center;
