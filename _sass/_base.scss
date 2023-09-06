@@ -333,6 +333,21 @@ header {
     cursor: pointer; /* 커서를 포인터로 변경하여 버튼처럼 보이게 함 */
 }
 
+  .circle-icon {
+            width: 50px; /* 동그라미의 너비와 높이 조정 */
+            height: 50px;
+            background-color: #007bff; /* 동그라미의 배경색 설정 */
+            border-radius: 50%; /* 동그라미 모양 만들기 */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+.circle-icon i {
+    font-size: 24px; /* 아이콘의 크기 설정 */
+    color: white; /* 아이콘의 색상 설정 */
+}
+
 
 // Contact
 #contact .fa {
@@ -367,4 +382,6 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
+
+
 
