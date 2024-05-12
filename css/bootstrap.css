@@ -4857,13 +4857,11 @@ a.label:focus {
   top: -1px;
 }
 .label-default {
-  /* background-color: #777; */
-  background-color: #9fa9d8;
+  background-color: #777;
 }
 .label-default[href]:hover,
 .label-default[href]:focus {
-  /* background-color: #5e5e5e; */
-  background-color: #9fa9d8;
+  background-color: #5e5e5e;
 }
 .label-primary {
   background-color: #337ab7;
@@ -4911,8 +4909,7 @@ a.label:focus {
   text-align: center;
   white-space: nowrap;
   vertical-align: baseline;
-  /* background-color: #777; */
-  background-color: #9fa9d8;
+  background-color: #777;
   border-radius: 10px;
 }
 .badge:empty {
