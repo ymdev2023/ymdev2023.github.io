@@ -34,11 +34,8 @@
 // }
 
 // variables.less
-$theme-primary: #706662; // 
+$theme-primary: #9fa9d8; //
 $theme-dark: #222;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "mixins",
-        "base"
-;
+@import "mixins", "base";
