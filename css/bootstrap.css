@@ -4827,7 +4827,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
-  color: #ccd2f0;
+  color: #9fa9d8;
   cursor: not-allowed;
   background-color: #fff;
 }
@@ -4857,11 +4857,11 @@ a.label:focus {
   top: -1px;
 }
 .label-default {
-  background-color: #ccd2f0;
+  background-color: #9fa9d8;
 }
 .label-default[href]:hover,
 .label-default[href]:focus {
-  background-color: #ccd2f0;
+  background-color: #9fa9d8;
 }
 .label-primary {
   background-color: #337ab7;
